@@ -1,0 +1,2 @@
+adapter.kafka.$KafkaAdapterDefinitionClass
+application.$TemperatureControllerDefinitionClass

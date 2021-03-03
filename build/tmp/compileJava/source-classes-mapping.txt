@@ -1,0 +1,6 @@
+App.java
+ App
+application/model/Temperature.java
+ application.model.Temperature
+adapter/kafka/KafkaAdapter.java
+ adapter.kafka.KafkaAdapter

@@ -1,0 +1,7 @@
+kafka:
+  bootstrap:
+    servers: localhost:9092
+  consumers:
+      session:
+        timeout:
+          ms: 30000
